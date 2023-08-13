@@ -1,4 +1,4 @@
 
 
 
-openssl rand -hex 32
+This is a simple example of implementing oauth2 in Fast API
